@@ -1,0 +1,104 @@
+﻿
+Nom coéquipier 1 : Gabriel William Duchesne
+Nom coéquipier 2 :Yan Fortin
+
+Numéro de dossier (matricule) coéquipier 1 : 111 071 901
+Numéro de dossier (matricule) coéquipier 2 :111 074 944
+
+Temps de réalisation total (estimé) : 20 heures
+
+
+
+Correction
+==========
+
+Fonctionnalités obligatoires
+----------------------------
+/10 : Les pièces peuvent être déplacées sur l'échiquier
+      Commentaires :
+
+/5 : La pièce sélectionnée est facilement identifiable
+      Commentaires :
+
+/5 : Le tour des joueurs est alterné correctement
+      Commentaires :
+
+/5 : Les déplacements invalides ne sont pas acceptés
+      Commentaires :
+
+/5 : On peut choisir une nouvelle pièce sans compléter le déplacement
+      Commentaires :
+
+/5 : La fin de la partie est détectée et affichée
+      Commentaires :
+
+/5 : On peut sauvegarder une partie via un bouton
+      Commentaires :
+
+/5 : On peut charger une partie via un bouton
+      Commentaires :
+
+/5 : On peut démarrer une nouvelle partie
+      Commentaires :
+
+/5 : De l'information sur la partie est affichée (au tour de quelle couleur)
+      Commentaires :
+
+/5 : Qualité de messages d'erreur donnés à l'utilisateur
+      Commentaires :
+
+/5 : Utilisation de la gestion des exceptions
+      Commentaires :
+
+/5 : Qualité du code (noms de variables, style, commentaires, documentation)
+      Commentaires :
+
+
+Total: /70
+
+
+
+Fonctionnalités facultatives
+----------------------------
+
+Indiquez ici la liste des fonctionnalités (avec leur numéro et nom) que vous
+avez implémentées. Si aucune information n'est donnée ici, nous ne corrigerons
+pas ces fonctionnalités.
+
+Pour les fonctionnalités avec une *, vous DEVEZ indiquer ici quel fichier de
+sauvegarde ouvrir et quels déplacements effectuer pour que le correcteur puisse
+évaluer votre fonctionnalité.
+
+
+1 - Option de lire les règlements du jeu
+3 - Permettre d'annuler le dernier mouvement
+5 - Après la sélection, afficher les déplacements et prises valides
+7 - Permettre de changer le thème
+15 - Détection des mises en échecs (voire sauvegarde Règle_15.txt)
+        Déplacer la dame en D1 à A4. Le roi noir est en échec, cela s'affiche au bas de l'écran.
+17 - Détecter une partie nulle de type "pat" (voire sauvegarde Règle_17.txt)
+        Déplacer le roi en F1 à G2. Le message de fin de partie apparait en bas et le type de victoire apparait en haut à droite
+19 - Promotion d'un pion (voire sauvegarde Règle_19.txt)
+        Déplacer le pion blanc en B7 à B8
+        Déplacer le pion noir en B2 à A1
+
+
+
+Total: /30
+
+
+
+
+Pénalités
+---------
+
+
+
+
+Commentaires du correcteur
+--------------------------
+
+
+
+
+Total : /100
